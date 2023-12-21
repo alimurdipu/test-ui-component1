@@ -2,7 +2,7 @@ import React from 'react'
 
 const Divider = () => {
   return (
-    <div>Divider</div>
+    <div>Bangladesh</div>
   )
 }
 
